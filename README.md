@@ -2,7 +2,7 @@
 
 Generate a powerful secure password. Securely generate, unique passwords for each and every one of your accounts. Get a strong password to protect against security threats.
 
-[<img align="center" width="412px" src="https://i.ibb.co/WG1wLbm/image.png" >](https://blank.page)
+[<img align="center" width="412px" src="https://i.postimg.cc/1tTh8s3y/image.png" >](https://blank.page)
 
 ## Installation
 To install all project dependancies run **Installer.**
