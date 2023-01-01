@@ -20,4 +20,5 @@ Password Generator.py
 <h2>Issue Reporting</h2>
 
 
-If you have found a bug or if you have a feature request, please report them at this repository issues section. [Report Issues](https://github.com/ZedUnknown/Password-Generator/issues)
+If you have found a bug or if you have a feature request, please report them at this repository issues section. 
+[Report Issues](https://github.com/ZedUnknown/Password-Generator/issues)
