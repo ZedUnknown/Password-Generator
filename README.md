@@ -5,7 +5,7 @@ Generate a powerful secure password. Securely generate, unique passwords for eac
 &nbsp;
 &nbsp;
 
-[<img align="center" width="325px" src="https://i.postimg.cc/1tTh8s3y/image.png">](https://blank.page)
+[<img align="center" width="325px" src="https://i.postimg.cc/1tTh8s3y/image.png">](#)
 
 ## Installation
 To install all project dependancies run **Installer.**
